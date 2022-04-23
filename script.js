@@ -79,7 +79,7 @@ document.querySelectorAll(".imgcolor").forEach(function(ele){
                         trigger: "#fourthpage",
                         start: "center bottom",
                         end: "center top",
-                        markers: true,
+                        // markers: true,
                         scrub: true
                     }
                 })
@@ -89,7 +89,7 @@ document.querySelectorAll(".imgcolor").forEach(function(ele){
                             trigger: "#fivepage",
                             start: "center bottom",
                             end: "center top",
-                            markers: true,
+                            // markers: true,
                             scrub: true
                         }
                     })
